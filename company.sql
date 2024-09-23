@@ -10,3 +10,7 @@ class char(1) DEFAULT 'A')
 
 
 insert into customers values(567, 'Shatakshi', 'Noida', 'UP', 201016, 'Bag', '1');
+
+
+-- SHOW TABLE;
+
